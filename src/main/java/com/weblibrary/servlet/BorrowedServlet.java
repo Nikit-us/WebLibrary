@@ -1,4 +1,4 @@
 package com.weblibrary.servlet;
 
-public class Borrowervlet {
+public class BorrowedServlet {
 }

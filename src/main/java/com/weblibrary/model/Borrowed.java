@@ -1,4 +1,4 @@
 package com.weblibrary.model;
 
-public class BorrowedDAO {
+public class Borrowed {
 }
